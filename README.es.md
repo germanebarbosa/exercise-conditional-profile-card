@@ -61,7 +61,7 @@ https://github.com/breatheco-de/exercise-conditional-profile-card.git
 
 ## 📝Instrucciones:
 
-Revisa este video con las instrucciones para que entiendas mejor el ejercicio: https://youtu.be/gaVm8eyCqlM
+Revisa este video con las instrucciones para que entiendas mejor el ejercicio: httpsnmp://youtu.be/gaVm8eyCqlM
 
 1. Lee y comprende la función `render` y el valor de la variable `variables` que recibe.
 
